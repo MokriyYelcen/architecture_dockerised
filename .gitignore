@@ -1,0 +1,10 @@
+/.env
+/vendor
+/data/mysql/*
+!/data/.gitkeep
+/logs/apache2/*
+/logs/mysql/*
+!/logs/.gitkeep
+.DS_Store
+/.idea
+/.github
